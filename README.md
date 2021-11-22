@@ -1,2 +1,2 @@
 # onerous
-for image
+  for image to use CDN
